@@ -4,6 +4,7 @@
   "description": "Um projeto para praticar programação e colocar em prática algums conceitos fazendo uma cópia do https://www.tabnews.com.br",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
