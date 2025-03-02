@@ -9,10 +9,13 @@ function Home() {
         </p>
       </>
 
-      <h2>O que será? uma menininha ou um garotão?</h2>
-      <p>O que vier iremos amar do fundo de nossos corações, sem dúvidas!!</p>
+      <h2>Agora sabemos que é um Garotão!!!</h2>
+      <p>
+        Muito feliz por esse momento, e seja bem vindo meu filho Benjamin Miguel
+        s2
+      </p>
 
-      <h2>Saiba que amo você s2</h2>
+      <h2>Saiba que amo vocês s2</h2>
     </>
   );
 }
